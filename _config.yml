@@ -21,7 +21,7 @@ repository               : "gshivansh2001/gshivansh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC_0604.JPG"
+  avatar           : "images/DSC_0604.JPG"
   name             : "Shivansh Gupta"
   pronouns         : # example: "she/her"  
   bio              : "Pre-Doctoral Research Associate @ ISB | Information Systems | Computational Social Sciences | Econometrics"
