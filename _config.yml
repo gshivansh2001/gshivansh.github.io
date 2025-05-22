@@ -8,32 +8,32 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ashish Panchal"
+title                    : "Shivansh Gupta"
 
 title_separator          : "-"
-name                     : &name "Ashish Panchal"
-description              : &description "Ashish Panchal"
-url                      : https://ashishpanchal33.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Shivansh Gupta"
+description              : &description "Shivansh Gupta"
+url                      : https://gshivansh2001.github.io/gshivansh.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ashishpanchal33/ashishpanchal33.github.io"
+repository               : "gshivansh2001/gshivansh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Ashish Panchal"
+  avatar           : "DSC_0604.JPG"
+  name             : "Shivansh Gupta"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate @ ISB | Social Reinforcement learning| AI 4 Good"
+  bio              : "Pre-Doctoral Research Associate @ ISB | Information Systems | Computational Social Sciences | Econometrics"
   location         : "Hyderabad, India"
   employer         : "Indian School of Business"
   uri              : # URL
-  email            : "ashish_panchal@isb.edu"
+  email            : "shivansh_gupta@isb.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=7d5HslAAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=7d5HslAAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ashishpanchal33"
+  github           : "gshivansh2001"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "ashishpanchal1" # Username
+  linkedin         : "shivanshgupta2001" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
