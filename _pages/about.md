@@ -47,3 +47,33 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+<div style="text-align: center; margin-top: 30px;">
+
+  <a href="mailto:shivansh_gupta@isb.edu" target="_blank" style="margin: 10px;">
+    <button style="background-color: #0072c6; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
+      <i class="fas fa-envelope"></i> Email
+    </button>
+  </a>
+
+  <a href="https://www.kaggle.com/shivanshgupta67" target="_blank" style="margin: 10px;">
+    <button style="background-color: #20beff; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
+      <i class="fab fa-kaggle"></i> Kaggle
+    </button>
+  </a>
+
+  <a href="https://github.com/gshivansh2001" target="_blank" style="margin: 10px;">
+    <button style="background-color: #24292e; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
+      <i class="fab fa-github"></i> GitHub
+    </button>
+  </a>
+
+  <a href="https://twitter.com/Shivans69616284" target="_blank" style="margin: 10px;">
+    <button style="background-color: #1da1f2; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
+      <i class="fab fa-twitter"></i> Twitter
+    </button>
+  </a>
+
+</div>
+
