@@ -16,8 +16,6 @@ I’m Shivansh, and I am interested primarily in the multidisciplinary domain of
 
 At the moment, I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vasundhara Sharma](https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma).
 
-<p style="text-align: justify;"> <b>Prior Experiences</b>: Previously, I earned my degree in Petroleum Engineering and worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients like Chevron and ExxonMobil. My work focused on optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience sparked my deeper interest in how data-driven technologies impact organisations and people, eventually leading my curiosity to transition into Information systems and computational social science research. Further details about my skills and experience are available in my <a target="_self" href="/cv/">CV</a>. </p>
-
 <h3 >Research Insterests</h3>
 <p style="text-align: justify;"> I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, to help build more inclusive, transparent, and responsible digital ecosystems..</p>
 
@@ -29,11 +27,13 @@ At the moment, I am working as a **Research Associate** at the **Indian School o
   
 To learn more about my recent explorations, please visit my [Research](https://gshivansh2001.github.io/gshivansh.github.io//publications/) page. 
 
+<p style="text-align: justify;"> <b>Prior Experiences</b>: Previously, I earned my degree in Petroleum Engineering and worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients like Chevron and ExxonMobil. My work focused on optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience sparked my deeper interest in how data-driven technologies impact organisations and people, eventually leading my curiosity to transition into Information systems and computational social science research. Further details about my skills and experience are available in my <a target="_self" href="/cv/">CV</a>. </p>
+
 <h3 id="update">Update!</h3>
 
 - I am looking out for PhD positions!. Please feel free to reach out if you believe we could be a great team!
-- [01-03-2025] Attended and volunteered at <a href="https://connect.informs.org/iss/blogs/ramnath-chellappa/2024/09/16/code2024-25" target="_blank">CODE: Conference on the Digital Economy</a>, Indian School of Business, Varanasi.
-- [12-14-2024] Attended <a href="https://www.nber.org/conferences/information-and-competition-digital-economy-fall-2024" target="_blank">ISB-NBER Conference on Information and Competition in the Digital Economy</a>.
+- [01-01-2025] Attended and volunteered at <a href="https://connect.informs.org/iss/blogs/ramnath-chellappa/2024/09/16/code2024-25" target="_blank">CODE: Conference on the Digital Economy</a>, Indian School of Business, Varanasi.
+- [14-12-2024] Attended <a href="https://www.nber.org/conferences/information-and-competition-digital-economy-fall-2024" target="_blank">ISB-NBER Conference on Information and Competition in the Digital Economy</a>.
 - [02-12-2024] Joined the SRITNIE team at ISB and started working as a pre-doctoral researcher in the Information Systems Department.
 
 <h3>More than Research</h3>
