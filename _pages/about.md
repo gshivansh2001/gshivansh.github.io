@@ -1,52 +1,54 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shivansh Gupta"
+subtitle: Researcher
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<div hidden="hidden">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=P0DmcjPhTVQDSVsO6eLpfLlblpD7aYEdFi8dEehI1TI&cl=ffffff&w=a"></script>
+</div>
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+{: style="text-align: justify" }
+Hi!
+I am Ashish and I want to build highly adaptable decision-making  AI to help our society.
 
-Hi This is Shivansh's Page
+At the moment I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
+
+<p style="text-align: justify;"> <b>Prior Experiences</b>: Over the past seven years, I've designed ML pipelines at an analytics startup, a fintech product company, and a major consulting firm. My experience spans credit risk and customer lifecycle modeling, automated insight generation from social listening, and forecasting. Further details about my skills and experience are available in my <a target="_self" href="/cv/">CV</a>. </p>
+
+<h3 >Research Insterests</h3>
+<p style="text-align: justify;"> I am interested in AI's potential to navigate social settings. My primary focus is on real-world interactions, where AI can help us make socially conscious decisions while mitigating harmful societal influences. Furthermore, through autonomous AI decision-making, I aim to augment human capabilities in managing situations beyond our control, such as interactions with other AI agents or unpredictable environmental events.</p>
+
+<p style="text-align: justify;">I'm deeply concerned about the insidious inequities perpetuated by evolving and persistent dogmas that infiltrate AI-powered products and services. Data-driven AI tools can unknowingly perpetuate our own ill-founded and often-forgotten biases. Even when we identify, rectify, and evolve beyond these biases, most of our transcripts reflect outdated beliefs. These older, biases form the omnipresent machine learning and data pipelines, exacerbating the problem.</p>
+
+<p style="text-align: justify;">Therefore, it is paramount that AI learns to evolve and adapt with us, or even better, facilitates our positive evolution!</p>
+
+<p style="text-align: justify;">My explorations have shown that we are quite good at adapting to changes, both big and small. The recent global economic comeback serves as compelling evidence of this! However, unlike humans, current RL agents find it challenging to cope with the non-stationarity inherent in real-life scenarios.</p>
+
+<p style="text-align: justify;">Hence, as a first step to instill human-like resilience in AI,  I aim to study domains and problems that highlight our capacity to adapt, such as music creation, driving in traffic, and business market interactions, among others.</p>
+
+<p style="text-align: justify;">Human adaptability provides a relevant and accessible starting point for addressing this challenge. The vast amount of data we generate daily offers a rich resource for studying these adaptive strategies. However, I believe that human learning is not the only effective approach. The ability to adjust to environmental changes is a fundamental property throughout the natural world, and studying these diverse adaptive mechanisms can reveal more sophisticated and subtle strategies.</p>
+
+  
+To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications/) page. 
+
+
+<h3 id="update">Update!</h3>
+
+- I am looking out for PhD positions!. Please feel free to reach out if you believe we could be a great team!
+- [04-26-2025] Submitted our paper: IEEE Access journal "Inducing Persona in Negotiations Between Agents in Generative AI Applications: Exploring Vulnerabilities and Emergent Dynamics"
+- [12-23-2024] My paper got accepted at AAAI-25 MARW workshop: "Unraveling Complex Sequential Social Dilemmas: In a Risky World with A2C Decision Transformer" 
+
+Note
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Why do I believe in adaptive equity?
+Simply because a one-size-fits-all approach to fairness may be insufficient or even counterproductive in the face of changing circumstances, diverse needs, and evolving social norms.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Is adaptive equity the only goal of my journey?
+No, I expect my goals and journey to evolve. However, outcome optimization is a core principle I strongly believe in, and one that will likely guide me for years to come. These outcomes can be driven by multiple objectives. For instance, increasing profitability and equity for a product company are not mutually exclusive.
 
 
 <div style="text-align: center; margin-top: 30px;">
@@ -57,51 +59,22 @@ More info about configuring Academic Pages can be found in [the guide](https://a
          style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #0072c6;">
   </a>
 
-  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank" style="margin: 10px;">
+  <a href="https://www.kaggle.com/shivanshgupta67" target="_blank" style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" 
          alt="Kaggle" 
          style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #20beff;">
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" style="margin: 10px;">
+  <a href="https://github.com/gshivansh2001" target="_blank" style="margin: 10px;">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" 
          alt="GitHub" 
          style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #24292e;">
   </a>
 
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank" style="margin: 10px;">
+  <a href="https://twitter.com/Shivans69616284" target="_blank" style="margin: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" 
          alt="Twitter" 
          style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #1da1f2;">
-  </a>
-
-</div>
-
-
-<div style="text-align: center; margin-top: 30px;">
-
-  <a href="mailto:shivansh_gupta@isb.edu" target="_blank" style="margin: 10px;">
-    <button style="background-color: #0072c6; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      <i class="fas fa-envelope"></i> Email
-    </button>
-  </a>
-
-  <a href="https://www.kaggle.com/shivanshgupta67" target="_blank" style="margin: 10px;">
-    <button style="background-color: #20beff; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      <i class="fab fa-kaggle"></i> Kaggle
-    </button>
-  </a>
-
-  <a href="https://github.com/gshivansh2001" target="_blank" style="margin: 10px;">
-    <button style="background-color: #24292e; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      <i class="fab fa-github"></i> GitHub
-    </button>
-  </a>
-
-  <a href="https://twitter.com/Shivans69616284" target="_blank" style="margin: 10px;">
-    <button style="background-color: #1da1f2; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      <i class="fab fa-twitter"></i> Twitter
-    </button>
   </a>
 
 </div>
