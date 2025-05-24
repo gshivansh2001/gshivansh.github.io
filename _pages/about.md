@@ -13,43 +13,36 @@ redirect_from:
 {: style="text-align: justify" }
 Hi!
 I’m Shivansh, and I am interested primarily in the multidisciplinary domain of Digital Economy.
-I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, with the goal of helping build more inclusive, transparent, and responsible digital ecosystems.
 
 At the moment, I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vasundhara Sharma](https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma).
 
-<p style="text-align: justify;"> <b>Prior Experiences</b>: Over the past seven years, I've designed ML pipelines at an analytics startup, a fintech product company, and a major consulting firm. My experience spans credit risk and customer lifecycle modeling, automated insight generation from social listening, and forecasting. Further details about my skills and experience are available in my <a target="_self" href="/cv/">CV</a>. </p>
+<p style="text-align: justify;"> <b>Prior Experiences</b>: Previously, I earned my degree in Petroleum Engineering and worked as a Data Scientist at HCLTech, where I developed machine learning solutions for clients like Chevron and ExxonMobil. My work focused on optimising data ingestion pipelines and building predictive models for asset management and maintenance analytics. This hands-on industry experience sparked my deeper interest in how data-driven technologies impact organisations and people, eventually leading my curiosity to transition into Information systems and computational social science research. Further details about my skills and experience are available in my <a target="_self" href="/cv/">CV</a>. </p>
 
 <h3 >Research Insterests</h3>
-<p style="text-align: justify;"> I am interested in AI's potential to navigate social settings. My primary focus is on real-world interactions, where AI can help us make socially conscious decisions while mitigating harmful societal influences. Furthermore, through autonomous AI decision-making, I aim to augment human capabilities in managing situations beyond our control, such as interactions with other AI agents or unpredictable environmental events.</p>
+<p style="text-align: justify;"> I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, to help build more inclusive, transparent, and responsible digital ecosystems..</p>
 
-<p style="text-align: justify;">I'm deeply concerned about the insidious inequities perpetuated by evolving and persistent dogmas that infiltrate AI-powered products and services. Data-driven AI tools can unknowingly perpetuate our own ill-founded and often-forgotten biases. Even when we identify, rectify, and evolve beyond these biases, most of our transcripts reflect outdated beliefs. These older, biases form the omnipresent machine learning and data pipelines, exacerbating the problem.</p>
+<p style="text-align: justify;">I am fascinated by how digital platforms mediate interactions, shape incentives, and influence both individual behaviour and collective outcomes. As technology becomes more embedded in our everyday decisions—what we read, where we go, whom we trust—understanding these systems is no longer optional; it’s essential.</p>
 
-<p style="text-align: justify;">Therefore, it is paramount that AI learns to evolve and adapt with us, or even better, facilitates our positive evolution!</p>
+<p style="text-align: justify;">My current research focuses on platform governance, reputation mechanisms, and user reviews—tools that claim to promote trust and transparency, but often conceal deeper social dynamics and structural inequities. These systems are far from neutral, and I strongly believe data-driven research can help surface these hidden patterns and inform better, more inclusive design.</p>
 
-<p style="text-align: justify;">My explorations have shown that we are quite good at adapting to changes, both big and small. The recent global economic comeback serves as compelling evidence of this! However, unlike humans, current RL agents find it challenging to cope with the non-stationarity inherent in real-life scenarios.</p>
-
-<p style="text-align: justify;">Hence, as a first step to instill human-like resilience in AI,  I aim to study domains and problems that highlight our capacity to adapt, such as music creation, driving in traffic, and business market interactions, among others.</p>
-
-<p style="text-align: justify;">Human adaptability provides a relevant and accessible starting point for addressing this challenge. The vast amount of data we generate daily offers a rich resource for studying these adaptive strategies. However, I believe that human learning is not the only effective approach. The ability to adjust to environmental changes is a fundamental property throughout the natural world, and studying these diverse adaptive mechanisms can reveal more sophisticated and subtle strategies.</p>
-
+<p style="text-align: justify;">Though this is just the initial steps, I would like to start by understanding "what", then ask "why" these patterns emerge and "how" can we help platforms evolve responsibly in the face of shifting user behaviours.</p>
   
-To learn more about my recent explorations, please visit my [Projects](https://ashishpanchal33.github.io/publications/) page. 
-
+To learn more about my recent explorations, please visit my [Research](https://gshivansh2001.github.io/gshivansh.github.io//publications/) page. 
 
 <h3 id="update">Update!</h3>
 
 - I am looking out for PhD positions!. Please feel free to reach out if you believe we could be a great team!
-- [04-26-2025] Submitted our paper: IEEE Access journal "Inducing Persona in Negotiations Between Agents in Generative AI Applications: Exploring Vulnerabilities and Emergent Dynamics"
-- [12-23-2024] My paper got accepted at AAAI-25 MARW workshop: "Unraveling Complex Sequential Social Dilemmas: In a Risky World with A2C Decision Transformer" 
+- [01-03-2025] Attended and volunteered at <a href="https://connect.informs.org/iss/blogs/ramnath-chellappa/2024/09/16/code2024-25" target="_blank">CODE: Conference on the Digital Economy</a>, Indian School of Business, Varanasi.
+- [12-14-2024] Attended <a href="https://www.nber.org/conferences/information-and-competition-digital-economy-fall-2024" target="_blank">ISB-NBER Conference on Information and Competition in the Digital Economy</a>.
+- [02-12-2024] Joined the SRITNIE team at ISB and started working as a pre-doctoral researcher in the Information Systems Department.
 
-Note
-======
-Why do I believe in adaptive equity?
-Simply because a one-size-fits-all approach to fairness may be insufficient or even counterproductive in the face of changing circumstances, diverse needs, and evolving social norms.
+<h3>More than Research</h3>
 
-Is adaptive equity the only goal of my journey?
-No, I expect my goals and journey to evolve. However, outcome optimization is a core principle I strongly believe in, and one that will likely guide me for years to come. These outcomes can be driven by multiple objectives. For instance, increasing profitability and equity for a product company are not mutually exclusive.
+<p style="text-align: justify;">
+Beyond my academic work, I love exploring the latest advancements in technology and the societal shifts they bring — some of which I write about in my <a href="https://gshivansh2001.github.io/gshivansh.github.io//year-archive/" target="_blank">blog</a> and find joy in writing poetry, observing human behavior in everyday life, and of course — movies! You can explore more of these personal interests on the <a href="https://gshivansh2001.github.io/gshivansh.github.io//teaching/" target="_blank">Beyond Research</a> section of my site.
+</p>
 
+Feel free to connect with me on the platforms below:
 
 <div style="text-align: center; margin-top: 30px;">
 
