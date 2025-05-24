@@ -12,22 +12,21 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
+    url: /talks/  
 
   - title: "CV"
     url: /cv/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
 
-    - title: "Beyond Research"
+  - title: "Beyond Research"
     url: /teaching/    
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+  
     
   
     
