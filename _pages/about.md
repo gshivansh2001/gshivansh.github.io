@@ -64,7 +64,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
   </a>
 
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" 
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" 
          alt="GitHub" 
          style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #24292e;">
   </a>
