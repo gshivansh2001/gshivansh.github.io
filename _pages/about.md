@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Shivansh Gupta"
-subtitle: Researcher
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,9 +12,10 @@ redirect_from:
 
 {: style="text-align: justify" }
 Hi!
-I am Ashish and I want to build highly adaptable decision-making  AI to help our society.
+I’m Shivansh, and I am interested primarily in the multidisciplinary domain of Digital Economy.
+I am particularly interested in understanding how technology and digital platforms shape human behaviour, economic incentives, and societal outcomes. I aim to uncover structural biases and social dynamics using large-scale data, with the goal of helping build more inclusive, transparent, and responsible digital ecosystems.
 
-At the moment I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vandith Pamuru](https://www.isb.edu/en/research-thought-leadership/faculty/faculty-directory/vandith-pamuru.html).
+At the moment, I am working as a **Research Associate** at the **Indian School of Business**, with [Professor Vasundhara Sharma](https://www.isb.edu/faculty-and-research/faculty-directory/vasundhara-sharma).
 
 <p style="text-align: justify;"> <b>Prior Experiences</b>: Over the past seven years, I've designed ML pipelines at an analytics startup, a fintech product company, and a major consulting firm. My experience spans credit risk and customer lifecycle modeling, automated insight generation from social listening, and forecasting. Further details about my skills and experience are available in my <a target="_self" href="/cv/">CV</a>. </p>
 
