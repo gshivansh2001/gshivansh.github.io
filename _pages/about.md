@@ -52,28 +52,29 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 <div style="text-align: center; margin-top: 30px;">
 
   <a href="mailto:shivansh_gupta@isb.edu" target="_blank" style="margin: 10px;">
-    <button style="background-color: #0072c6; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      <i class="fas fa-envelope"></i> Email
-    </button>
+    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" 
+         alt="Email" 
+         style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #0072c6;">
   </a>
 
-  <a href="https://www.kaggle.com/shivanshgupta67" target="_blank" style="margin: 10px;">
-    <button style="background-color: #20beff; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      <i class="fab fa-kaggle"></i> Kaggle
-    </button>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" 
+         alt="Kaggle" 
+         style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #20beff;">
   </a>
 
-  <a href="https://github.com/gshivansh2001" target="_blank" style="margin: 10px;">
-    <button style="background-color: #24292e; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      <i class="fab fa-github"></i> GitHub
-    </button>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" 
+         alt="GitHub" 
+         style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #24292e;">
   </a>
 
-  <a href="https://twitter.com/Shivans69616284" target="_blank" style="margin: 10px;">
-    <button style="background-color: #1da1f2; color: white; border: none; padding: 10px 20px; border-radius: 5px; font-size: 16px;">
-      <i class="fab fa-twitter"></i> Twitter
-    </button>
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank" style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" 
+         alt="Twitter" 
+         style="width: 50px; height: 50px; border-radius: 50%; padding: 8px; background-color: #1da1f2;">
   </a>
 
 </div>
+
 
